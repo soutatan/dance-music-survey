@@ -15,3 +15,4 @@ change_resume_to_nickname.py
 remove_answer_id_notice.py
 upgrade_local_survey.py
 test_supabase_connection.py
+check_supabase_audio.py
