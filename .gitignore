@@ -1,0 +1,17 @@
+.streamlit/secrets.toml
+.env
+data/responses.db
+data/responses.db-shm
+data/responses.db-wal
+responses*.csv
+__pycache__/
+*.pyc
+audio/
+app_before_*.py
+app_sqlite_backup.py
+requirements_sqlite_backup.txt
+add_pause_confirmation_and_reissue_check.py
+change_resume_to_nickname.py
+remove_answer_id_notice.py
+upgrade_local_survey.py
+test_supabase_connection.py
